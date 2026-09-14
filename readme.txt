@@ -12,5 +12,5 @@ This assignment focuses on fundamental image processing techniques using Python 
 - GrabCut image segmentation
 - Bilateral filtering for edge-preserving smoothing
 
-The implementations include both OpenCV-based functions and custom algorithms, with visual and quantitative comparisons used to evaluate the results.
+The implementations include both OpenCV based functions and custom algorithms, with visual and quantitative comparisons used to evaluate the results.
 
